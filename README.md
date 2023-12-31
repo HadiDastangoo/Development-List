@@ -12,12 +12,18 @@ A list of websites for a faster Frontend Development!
 - Transparent Textures https://www.transparenttextures.com/
 - Seamless Pattern Generator https://patternico.com/
 - Patternizer https://patternizer.com/
+- Hero Patterns https://heropatterns.com/
 
-**Icons & SVG**
-- Flat Icon https://www.flaticon.com/
-- Iconduck https://iconduck.com/
+**Illustraions (PNG, SVG and etc.)**
 - Snoweb SVG https://www.snoweb-svg.com/svg/
 - SVG Search https://www.svgrepo.com/
+- Free Illustrations https://freeillustrations.xyz/
+- BGJar (Background SVG Generator) https://bgjar.com/
+- SVG Shape Generator https://www.softr.io/tools/svg-shape-generator
+
+**Icons**
+- Iconduck https://iconduck.com/
+- Flat Icon https://www.flaticon.com/
 
 **Images**
 - Unsplash https://unsplash.com/
