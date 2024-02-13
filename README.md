@@ -1,11 +1,15 @@
 # Frontend List
 A list of websites for a faster Frontend Development!
 
+**Diagram**
+- Online Flowchart & Diagram Maker https://draw.io/
+
 **Colors**
 - Open Color https://yeun.github.io/open-color/
 - Tailwindcss Colors https://tailwindcss.com/docs/customizing-colors
 - Colors.lol https://colors.lol/
 - Tint and Shade Generator https://maketintsandshades.com/
+- Material Pallette https://www.materialpalette.com/
 
 **Patterns**
 - Pattern Generator https://doodad.dev/pattern-generator/
@@ -24,6 +28,9 @@ A list of websites for a faster Frontend Development!
 **Icons**
 - Iconduck https://iconduck.com/
 - Flat Icon https://www.flaticon.com/
+
+**Icons Package Maker**
+- App Icon Generator https://www.appicon.co/
 
 **Images**
 - Unsplash https://unsplash.com/
