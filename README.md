@@ -1,6 +1,7 @@
 # Backend List
 **IDE**
 - (PHP) Online editor and compiler: https://paiza.io/projects/
+- Python Playground - Online Python IDE: https://programiz.pro/ide/python
 
 # Frontend List
 A list of websites for a faster Frontend Development!
