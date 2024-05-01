@@ -3,9 +3,10 @@
 - (PHP) Online editor and compiler: https://paiza.io/projects/
 - Python Playground - Online Python IDE: https://programiz.pro/ide/python
 
-**Online SSH**
+**Online SSH/FTP File Manager**
 - SSHEasy (Online CLI and file explorer) https://ssheasy.com/
 - Filestash (SSH file explorer) https://demo.filestash.app/
+- DreamHost File Manager https://webftp.dreamhost.com/
 
 # Frontend List
 A list of websites for a faster Frontend Development!
