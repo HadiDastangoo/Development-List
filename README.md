@@ -4,8 +4,8 @@
 - Python Playground - Online Python IDE: https://programiz.pro/ide/python
 
 **Online SSH**
-- SSHEasy https://ssheasy.com/
-- Filestash (SSH File Manager) https://demo.filestash.app/
+- SSHEasy (Online CLI and file explorer) https://ssheasy.com/
+- Filestash (SSH file explorer) https://demo.filestash.app/
 
 # Frontend List
 A list of websites for a faster Frontend Development!
