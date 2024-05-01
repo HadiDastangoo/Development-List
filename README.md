@@ -1,7 +1,11 @@
 # Backend List
-**IDE**
+**Online IDE**
 - (PHP) Online editor and compiler: https://paiza.io/projects/
 - Python Playground - Online Python IDE: https://programiz.pro/ide/python
+
+**Online SSH**
+- SSHEasy https://ssheasy.com/
+- Filestash (SSH File Manager) https://demo.filestash.app/
 
 # Frontend List
 A list of websites for a faster Frontend Development!
@@ -31,6 +35,7 @@ A list of websites for a faster Frontend Development!
 - SVG Shape Generator https://www.softr.io/tools/svg-shape-generator
 
 **Icons**
+- Boxicons https://boxicons.com/
 - Iconduck https://iconduck.com/
 - Flat Icon https://www.flaticon.com/
 
