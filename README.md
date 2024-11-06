@@ -39,6 +39,7 @@ A list of websites for a faster Frontend Development!
 - Boxicons https://boxicons.com/
 - Iconduck https://iconduck.com/
 - Flat Icon https://www.flaticon.com/
+- Lordicon (Access 25,100+ animated icons) https://lordicon.com/
 
 **Icons Package Maker**
 - App Icon Generator https://www.appicon.co/
