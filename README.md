@@ -60,6 +60,7 @@ A list of websites for a faster Frontend Development!
 - CSS Loader https://10015.io/tools/css-loader-generator
 - Preloaders https://icons8.com/preloaders/
 - CSS Loader Generator https://www.cssportal.com/css-loader-generator/
+- CSS Loaders https://css-loaders.com/
 
 **Glassmorphism**
 - Glassmorphism CSS Generator https://markodenic.com/tools/glassmorphism-css-generator/
