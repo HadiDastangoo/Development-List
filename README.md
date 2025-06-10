@@ -44,6 +44,9 @@ A list of websites for a faster Frontend Development!
 **Icons Package Maker**
 - App Icon Generator https://www.appicon.co/
 
+**FavIcon Generator**
+- FavIcon Generator https://favicon.io/
+
 **Images**
 - Unsplash https://unsplash.com/
 - Skuawk https://skuawk.com/
